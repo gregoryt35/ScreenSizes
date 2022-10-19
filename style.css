@@ -1,0 +1,15 @@
+@media screen and (max-width : 600px) {
+    body {
+        background-color: lightyellow;
+    }
+}
+
+@media screen and (min-width : 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+/*I accomplished this task by using the resources given in the lab and seeing
+how to deal with various screen sizing. Because the sizing is different, the
+elements in a webpage can be either more condensed or spread apart.*/
